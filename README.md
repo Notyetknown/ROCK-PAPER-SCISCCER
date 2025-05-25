@@ -1,1 +1,3 @@
-This Is My College Frist Semester Final Project Of C Language. I am Just Exploring The C Language
+This is my final project for the first semester, and I’m currently exploring the C language.
+
+I made Rock Paper Scisccer Game. And It Was Amazing.
